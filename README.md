@@ -11,7 +11,6 @@ Tcash is a professional Digital Wallet Platform that comes with premium features
 - [Admin Features](#admin-features)
 - [Installation](#installation)
 - [Support](#support)
-- [License](#license)
 
 ## Overview
 
